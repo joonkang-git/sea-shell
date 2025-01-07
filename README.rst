@@ -21,6 +21,7 @@ The wait.c file manages both foreground and background processes. It handles pro
 The builtins.c file implements the shell’s built-in commands, which include:
 
 Command	Description
+
 cd - Changes the current working directory and updates $PWD.
 exit - Exits the BigShell program.
 export - Exports shell variables to the environment.
