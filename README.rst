@@ -1,4 +1,4 @@
-Project Structure
+**Project Structure**
 The BigShell program is composed of several key files, each responsible for a specific part of the shell's functionality. Below is a breakdown of each file and its role within the project:
 
 bigshell.c – Program Entry Point
